@@ -1,0 +1,38 @@
+.projects-section {
+  padding: 4rem 1rem;
+  max-width: 65rem;
+  margin: auto;
+  text-align: center;
+}
+
+.projects-title {
+  font-size: 3rem;
+  margin-bottom: 2rem;
+  font-weight: 600;
+  color: rgb(255, 255, 255);
+}
+
+.projects-container {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.project-card {
+  background: rgb(40, 40, 40);
+  padding: 1.5rem;
+  border-radius: 10px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+}
+
+.project-card h3 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  color: #acaf04;
+}
+
+.project-card p {
+  font-size: 1rem;
+  color: #ccc;
+  line-height: 1.6;
+}
