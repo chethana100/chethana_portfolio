@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/chethana_portfolio/static/css/main.d6ff453a.css",
+    "main.js": "/chethana_portfolio/static/js/main.3dc452e3.js",
+    "static/media/home_image.png": "/chethana_portfolio/static/media/home_image.2adc240a2b2f8589f28d.png",
+    "static/media/uiux.png": "/chethana_portfolio/static/media/uiux.3a74acc62ca37a6167c9.png",
+    "static/media/problem.png": "/chethana_portfolio/static/media/problem.a1ac6ff599fa3a1d2939.png",
+    "static/media/webdev.png": "/chethana_portfolio/static/media/webdev.8ac41369b374bf7a239a.png",
+    "static/media/app.png": "/chethana_portfolio/static/media/app.355c7a5d94260caeb9f0.png",
+    "static/media/instagram.png": "/chethana_portfolio/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "index.html": "/chethana_portfolio/index.html",
+    "main.d6ff453a.css.map": "/chethana_portfolio/static/css/main.d6ff453a.css.map",
+    "main.3dc452e3.js.map": "/chethana_portfolio/static/js/main.3dc452e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6ff453a.css",
+    "static/js/main.3dc452e3.js"
+  ]
+}
